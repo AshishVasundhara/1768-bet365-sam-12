@@ -1,0 +1,10 @@
+lastUpgrade=00958
+proj.pluginVersion=0.9.58
+proj.AppId=299415192714
+proj.classDir=Assets
+proj.ConstantsClassName=sss
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--%0d%0aGoogle+Play+game+services+IDs.%0d%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0d%0a--%3e%0a%3cresources%3e%0d%0a++%3cstring+name%3d%22app_id%22%3e299415192714%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22package_name%22%3ecom.gamehub.studio.skycombat%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_the_knight%22%3eCgkIiomltNsIEAIQAA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_sky_warrior%22%3eCgkIiomltNsIEAIQAQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_the_veteran%22%3eCgkIiomltNsIEAIQAg%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22leaderboard_long_survivor%22%3eCgkIiomltNsIEAIQAw%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22leaderboard_fast_finisher%22%3eCgkIiomltNsIEAIQBA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22leaderboard_the_captainship%22%3eCgkIiomltNsIEAIQBQ%3c%2fstring%3e%0d%0a%3c%2fresources%3e
+and.ClientId=
+proj.requireGPlus=false
+android.SetupDone=true
+and.BundleId=com.gamehub.studio.skycombat
